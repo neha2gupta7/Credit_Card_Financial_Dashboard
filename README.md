@@ -2,6 +2,7 @@
 This repository contains an interactive dashboard developed using Power BI, leveraging transaction and customer data from a SQL database. The primary goal of this project is to provide real-time insights into credit card financial data, enabling stakeholders to make informed decisions based on key performance metrics and trends.
 
 Features:
+
 Interactive Dashboard: The dashboard offers an intuitive interface for exploring credit card financial data, allowing users to drill down into specific metrics and visualize trends.
 
 Real-time Insights: By connecting directly to the SQL database, the dashboard provides up-to-date information, ensuring stakeholders have access to the latest data for decision-making.
